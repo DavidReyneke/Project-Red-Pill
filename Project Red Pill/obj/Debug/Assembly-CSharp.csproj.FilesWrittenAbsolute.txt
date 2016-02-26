@@ -1,0 +1,17 @@
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/obj/Debug/Assembly-CSharp.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/UnityEngine.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/UnityEditor.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Difei/Documents/Development/Project-Red-Pill/Project Red Pill/Temp/bin/Debug/Mono.Cecil.Mdb.dll
